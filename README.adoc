@@ -70,7 +70,7 @@ instituição que oferta cursos de nível superior (e isso não está tão errad
 em sua definição. Começando com a semelhança entre ambas, tanto faculdades quanto universidades podem oferecer cursos de
 ensino superior (e daí o uso popular), porém quanto as diferenças:
 
-- **Faculdades** tem o direcionamento a uma área de formação, tem sua atuação focada primariamente à area de ensino podendo
+- **Faculdades** tem o direcionamento a uma área de formação, tem sua atuação focada primariamente à área de ensino podendo
 ou não possuir atividades de extensão e pesquisa (as faculdades não possuem a obrigação de desenvolver projetos de pesquisa).
 A exigência de formação na pós-graduação dos professores é de um terço do quadro e não há a necessidade de que eles trabalhem
 de forma integral (exclusiva) na faculdade. Além disso, as faculdades tendem a ter espaços físicos (campus) menores justamente
