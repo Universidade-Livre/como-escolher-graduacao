@@ -22,6 +22,24 @@ Agora vamos a resposta complexa...
 
 **TODO**
 
+## Reconhecida x Autorizada pelo MEC
+
+Diversas Universidades principalmente as que estão começando (principalmente as que antes eram empresas de cursos 
+livres) usam o termo "Autorizada pelo MEC" como meio de propagando, uma forma de demonstrar confiabilidade, porém
+é importante notar que **todo curso superior deve ser autorizado pelo MEC** sem exceção, ponto. Um curso que não é
+autorizado pelo MEC não pode ser considerado como Ensino Superior. É possível consultar quais cursos são autorizados
+pelo MEC no site [https://emec.mec.gov.br/](https://emec.mec.gov.br/).
+
+Dito isso, é importante saber que *autorizada* e *reconhecida* são termos diferentes e que implicam em níveis diferentes
+de reconhecimento do Curso que você está se matriculando. A partir do momento que uma instituição é aprovada para ministrar
+qualquer curso de ensino superior o curso é *autorizado* isso significa que ainda é um curso novo e sequer passou por qualquer
+avaliação de desempenho ou pelas avaliações do  Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira Legislação 
+e Documentos (INEP) que faz a avaliação do currículo, infraestrutura, professores e demais pontos a respeito daquele curso.
+
+Para ser *reconhecida* pelo MEC a instituição de ensino tem que solicitar essa avaliação após ter pelo menos o tempo mínimo
+de funcionamento de 50% da carga total do curso, somente após ser aprovada nas citadas avaliações é que então o curso passa
+a receber o reconhecimento do MEC e os diplomas expedidos por essa instituição passam a ter reconhecimento.
+
 ## Como avaliar uma faculdade?
 
 **TODO**
