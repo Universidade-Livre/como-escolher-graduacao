@@ -1,5 +1,4 @@
 = Como escolher um curso de computação
-
 :toc: left
 :toclevels: 1
 :language: asciidoc
