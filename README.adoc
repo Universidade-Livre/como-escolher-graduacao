@@ -62,7 +62,8 @@ e Documentos (INEP) que faz a avaliação do currículo, infraestrutura, profess
 Para ser *reconhecida* pelo MEC a instituição de ensino tem que solicitar essa avaliação após ter pelo menos o tempo mínimo
 de funcionamento de 50% da carga total do curso, somente após ser aprovada nas citadas avaliações é que então o curso passa
 a receber o reconhecimento do MEC e os diplomas expedidos por essa instituição passam a ter reconhecimento.
-## Faculdade x Universidade
+
+== Faculdade x Universidade
 
 Apesar de normalmente na comunicação informal ambos termos serem usado intercambiavelmente para designar qualquer
 instituição que oferta cursos de nível superior (e isso não está tão errado) existe uma diferença entre ambas instituições
