@@ -12,6 +12,16 @@ Todo colaboração é bem vinda, por isso dê sugestões, revise o texto, adicio
 Antes de tudo quero advogar que sou a favor de Faculdades e de Cursos Livres. Ambos tem sua validade, mas ambos tem o 
 seu contexto. Não existe uma competição entre os dois tipos de formação.
 
+**TODO**
+
 ## Faculdades são desatualizadas?
 
+Resposta simples: Não!
+
+Agora vamos a resposta complexa...
+
+**TODO**
+
 ## Como avaliar uma faculdade?
+
+**TODO**
