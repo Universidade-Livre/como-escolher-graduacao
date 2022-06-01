@@ -41,6 +41,9 @@ Resposta simples: Não!
 Agora vamos a resposta complexa...
 
 **TODO**
+## Como avaliar uma faculdade?
+
+**TODO**
 
 == Reconhecida x Autorizada pelo MEC
 
@@ -60,9 +63,30 @@ Para ser *reconhecida* pelo MEC a instituição de ensino tem que solicitar essa
 de funcionamento de 50% da carga total do curso, somente após ser aprovada nas citadas avaliações é que então o curso passa
 a receber o reconhecimento do MEC e os diplomas expedidos por essa instituição passam a ter reconhecimento.
 
-## Como avaliar uma faculdade?
+== Faculdade x Universidade
 
-**TODO**
+Apesar de normalmente na comunicação informal ambos termos serem usado intercambiavelmente para designar qualquer
+instituição que oferta cursos de nível superior (e isso não está tão errado) existe uma diferença entre ambas instituições
+em sua definição. Começando com a semelhança entre ambas, tanto faculdades quanto universidades podem oferecer cursos de
+ensino superior (e daí o uso popular), porém quanto as diferenças:
+
+- **Faculdades** tem o direcionamento a uma área de formação, tem sua atuação focada primariamente à área de ensino podendo
+ou não possuir atividades de extensão e pesquisa (as faculdades não possuem a obrigação de desenvolver projetos de pesquisa).
+A exigência de formação na pós-graduação dos professores é de um terço do quadro e não há a necessidade de que eles trabalhem
+de forma integral (exclusiva) na faculdade. Além disso, as faculdades tendem a ter espaços físicos (campus) menores justamente
+por se tratar de instituições com foco mais específico e um número menor de cursos.
+
+- **Universidades** possuem diversos cursos em diversas áreas do conhecimento. Elas tem uma autonomia maior aos órgãos de avaliação
+como o MEC por terem o reconhecimento de sua atuação, podendo criar e mudar cursos e currículos de forma mais autônoma. O principal
+objetivo de Universidades é promover atividades de extensão e pesquisa e a mesma tem o comprometimento em produzir atividades com o
+fim cultural e científico. Para que uma faculdade se torne universidade a mesma primeiro deve ter no mínimo 4 programas de pós-graduação stricto sensu (Mestrado e/ou Doutorado) sendo ao menos 1 deles de Doutorado. 
+
+É importante notar que nesse caso não existe necessariamente qualquer implicação do tipo de instituição sobre a qualidade do curso
+existem inúmeras faculdades de excelência como o Instituto Tecnológico de Aeronáutica (ITA), assim como pode haver muitas universidades
+que nem sempre chegam a um nível de excelência desejável. Além disso, o objetivo de muitas faculdades é justamente o foco no ensino e de
+desenvolver atividades direcionadas ao nicho que atendem e por isso sequer buscam tornarem-se universidades. Dito isso, a recomendação é
+que esteja atento quando estiver buscando onde estudar encontrar o tipo de instituição que melhor se adequa a seus objetivos futuros. Enquanto
+para alguns estar próximo de atividades de extensão e pesquisa pode ser algo muito importante, para outros talvez não seja.
 
 == Diferença entre as diferentes titulações
 
