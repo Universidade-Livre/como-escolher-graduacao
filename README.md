@@ -12,7 +12,23 @@ Todo colaboração é bem vinda, por isso dê sugestões, revise o texto, adicio
 Antes de tudo quero advogar que sou a favor de Faculdades e de Cursos Livres. Ambos tem sua validade, mas ambos tem o 
 seu contexto. Não existe uma competição entre os dois tipos de formação.
 
-**TODO**
+Cursos Livres são focados em tecnicas especificas, servem para atualizar alguns conteúdos, mas não tem a preocupação de oferecer uma base sólida para que o aluno possa se tornar plenamente suficiente no assunto.
+
+Já universidades tem um amplo papel social. Seu papel vai muito além de apenas formar profissionais. Segundo o professor Hernan Chaimovich "_universidades públicas têm uma missão que compreende formar pessoas capacitadas para alavancar um País inteiro_"<sup>[[1](https://jornal.usp.br/atualidades/universidade-publica-tem-papel-social-intelectual-e-economico/)]</sup>.
+
+> De acordo com o ex-pró-reitor da USP (_professor Hernan Chaimovich_), as universidades públicas têm uma missão que compreende formar pessoas capacitadas para alavancar um País inteiro. Além disso, as universidades públicas, “especialmente no Brasil, têm uma responsabilidade única de produzir conhecimentos e fazer com que esses conhecimentos tragam benefício social, intelectual e econômico para a sociedade”. Ele diz que essas duas responsabilidades bastariam para colocar a Universidade como um dos pilares da sociedade brasileira, e ressalta que o termo universidade pública não diz respeito à gratuidade: “Não é gratuita, porque é paga pelos contribuintes do País todo. E, portanto, essa transferência de fundos para construir uma responsabilidade requer um equilíbrio que precisa ser mantido com absoluta autonomia da Universidade”.
+
+Por isso é bem comum vermos universidade públicas focadas em cursos de extensão e programas de pesquisas. Muito conhecimento e tecnologia são produzidos dentro de uma universidade e eles são úteis a toda sociedade. Um programa interessante que existe nas universidade públicas são os cursos de extensão que, na maioria dos casos, são gratuitos.
+
+Já o professor Renato Janine afirma que a universidade deve estar compromissada com a vida futura do aluno, em 2003 ele escreveu um texto defendendo que os alunos ao entrar na universidade deveria ter a liberdade de escolha da grade curricular dentro de um curriculo de humanidades com o intuíto de preparar eles para o mercado de trabalho 20 ou 30 anos depois do ingresso<sup>[[2](https://www.comciencia.br/dossies-1-72/reportagens/universidades/uni10.shtml)]</sup>.
+
+Se você tem uma visão mais conservadora e acha que as universidades são lugares de balbúrdia, eu lhe recomendo duas atividades. A primeira é conhecer uma universidade além da hora da entrada. Você verá uma série de projetos de pesquisas, professores empenhados em auxiliar seus alunos, produção de conteúdo e conhecimento. Eu falei "hora da entrada" porque toda instituição de ensino tem um certo grau de "balbúrdia" simplesmente por ter todo tipo de aluno na faixa dos 20 e poucos anos. Isso é comum tanto em universidades públicas e privadas. 
+
+Ainda da visão conservadora, eu ressaldo a visão de um filosofo conservador que defende que a universidade deve ser livre pensar e questionar, pois é lá que são formada a nova geração de pensadores da sociedade. O texto erra ao afirmar que toda forma de pensar deve ser aceita, essa liberdade, já vimos é amplamente usada para defeder ideias supremacistas. Creio que ele não concorda com o ["Paradoxo da tolerância"](https://pt.wikipedia.org/wiki/Paradoxo_da_toler%C3%A2ncia) de Karl Popper.
+
+> "Temos universidades dedicadas a expansão do conhecimento, que não são meramente não-elitistas, mas anti-elitistas em sua estrutura social. Eles não fazem discriminação por motivos de religião, sexo, raça ou classe. São lugares de pesquisa e questionamento de mente-aberta, lugares sem compromissos dogmáticos, cujo propósito é o avanço do conhecimento através de um espírito de livre investigação. Este espírito é transmitido aos seus alunos, que têm a mais ampla escolha de currículo e adquirem conhecimentos que não são apenas firmemente fundamentados, mas eminentemente úteis em suas vidas futuras: administração de empresas, por exemplo, administração hoteleira ou relações internacionais. Em suma, as universidades evoluíram de clubes socialmente exclusivos, para o estudo de futilidades preciosas, para centros de treinamento socialmente inclusivos, para a propagação de habilidades necessárias. E a cultura que eles transmitem não é de uma elite privilegiada, mas de uma “cultura inclusiva” que qualquer um pode adquirir e desfrutar."
+
+Com essas três visões podemos afirmar que Universidade é muito mais do que apenas uma formação técnica.
 
 ## Faculdades são desatualizadas?
 
