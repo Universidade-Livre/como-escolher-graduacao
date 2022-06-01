@@ -40,8 +40,8 @@ na rede pública e ou particular em qualquer curso de Ensino Fundamental, Ensino
 de ensino que estejam dentro desse escopo por isso é normal que haja o estudo de cadeiras de Pedagogia junto a grade. 
 Para essas atividades é *necessário* o diploma de Licenciatura e caso esse seja seu objetivo essa será a escolha natural. 
 A maioria das Universidades que oferece essa modalidade para Informática chama o curso simplesmente de "Licenciatura em 
-Informática", mas pode ser encontrado também como "Licenciatura em Informática na Educação" ou similares e geralmente tem 
-a duração de 4 anos.
+Informática" ou "Licenciatura em Computação", mas pode ser encontrado também como "Licenciatura em Informática na Educação" 
+ou similares e geralmente tem  a duração de 4 anos.
 
 ### Bacharelado
 
@@ -53,15 +53,15 @@ sensu (Mestrado e Doutorado) ou tem interesse em assuntos de forma mais abrangen
 vários cursos de Bacharelado com diferentes finalidades dentro da área de Tecnologia da Informação entre eles Sistemas
 de Informação, Bacharelado em Ciência de Dados, Engenharia de Software, os já citados Engenharia da Computação e Ciência
 da Computação, além de muitos outros e cada um tende a ter mais foco em diferentes áreas e abordando diferentes conteúdos. 
-A duração de Bacharelados pode ser entre 4 e 6 anos dependendo do curso e formação.
+A duração de Bacharelados pode ser de 4 a 6 anos dependendo do curso e formação.
 
 ### Tecnólogo
 
 São cursos voltados para a formação de profissioanis voltados a atuação de nichos do mercado de trabalho e tendem a
 ter uma carga de estudo mais voltado para a *prática* e para as questões mais técnicas. Por se tratar de uma formação
-de Ensino Superior como todas as demais também habilita para que o aluno siga na Pós-graduação a conclusão ou participe
+de Ensino Superior como todas as demais também habilita para que o aluno siga na Pós-graduação após a conclusão ou participe
 de concursos que exigam Ensino Superior. É o tipo de formação mais indicada para quem quer desenvolver competências técnicas
 e atuar como profissional no mercado uma vez em que os cursos são direcionados a essa finalidade. Existem muitos técnologos
 em diferentes nichos da área de Tecnologia da Informação, entre eles os cursos de Tecnólogo em Redes, Tecnólogo em Análise e
 Desenvolvimento de Sistemas, Técnologo em Jogos, Técnologo em Mídias Digitais e muitas outras opções. Os cursos de tecnologia
-tem duração entre 2 e 4 anos.
+tem duração entre 2 a 3 anos.
