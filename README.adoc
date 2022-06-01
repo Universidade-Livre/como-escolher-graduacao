@@ -48,7 +48,7 @@ Diversas Universidades principalmente as que estão começando (principalmente a
 livres) usam o termo "Autorizada pelo MEC" como meio de propagando, uma forma de demonstrar confiabilidade, porém
 é importante notar que **todo curso superior deve ser autorizado pelo MEC** sem exceção, ponto. Um curso que não é
 autorizado pelo MEC não pode ser considerado como Ensino Superior. É possível consultar quais cursos são autorizados
-pelo https://emec.mec.gov.br/](https://emec.mec.gov.br/[MEC].
+pelo https://emec.mec.gov.br/[MEC].
 
 Dito isso, é importante saber que *autorizada* e *reconhecida* são termos diferentes e que implicam em níveis diferentes
 de reconhecimento do Curso que você está se matriculando. A partir do momento que uma instituição é aprovada para ministrar
