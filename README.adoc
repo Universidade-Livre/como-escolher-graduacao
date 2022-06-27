@@ -128,3 +128,19 @@ e atuar como profissional no mercado uma vez em que os cursos são direcionados 
 em diferentes nichos da área de Tecnologia da Informação, entre eles os cursos de Tecnólogo em Redes, Tecnólogo em Análise e
 Desenvolvimento de Sistemas, Técnologo em Jogos, Técnologo em Mídias Digitais e muitas outras opções. Os cursos de tecnologia
 tem duração entre 2 a 3 anos.
+
+== Cotas
+
+A Lei de Cotas é um instrumento criado pelo Governo Federal para ampliar o acesso de estudantes de escolas públicas, de pessoas
+de família de baixa renda, negros, pardos, indígenas e pessoas com deficiência ao Ensino Superior. A Lei Nº 12771/12 que pode ser
+consultada https://presrepublica.jusbrasil.com.br/legislacao/1033760/lei-12771-12[aqui] determina como dever de todas as instituições
+federais de ensino devem reservar no mínimo metade (50%) das vagas para alunos que venham da formação de escolas públicas.
+
+> Para melhor entender como as cotas funcionam vamos quebrar a explicação em partes e usar exemplos e ilustrações.
+
+Após reservadas as vagas de estudantes de escolas públicas (no nosso exemplo 20), então metade das vagas destinadas a alunos de escola
+pública seja destinada a alunos que tem renda familiar per capta inferior a 1.5 salários mínimos. 
+
+Depois de separada as vagas por faixa de renda, entre as vagas de cada faixa de renda entre os cadidatos cotistas são separadas
+as vagas para estudantes autodeclarados como pretos, pardos e indigenas e então para pessoas com deficiência proporcionalmente ao censo
+do Instituto Brasileiro de Geografia e Estatística (IBGE) no estado da instituição.
