@@ -138,9 +138,15 @@ federais de ensino devem reservar no mínimo metade (50%) das vagas para alunos 
 
 > Para melhor entender como as cotas funcionam vamos quebrar a explicação em partes e usar exemplos e ilustrações.
 
+image::./explicacao_cotas_i.png[align="center"]
+
 Após reservadas as vagas de estudantes de escolas públicas (no nosso exemplo 20), então metade das vagas destinadas a alunos de escola
 pública seja destinada a alunos que tem renda familiar per capta inferior a 1.5 salários mínimos. 
+
+image::./explicacao_cotas_ii.png[align="center"]
 
 Depois de separada as vagas por faixa de renda, entre as vagas de cada faixa de renda entre os cadidatos cotistas são separadas
 as vagas para estudantes autodeclarados como pretos, pardos e indigenas e então para pessoas com deficiência proporcionalmente ao censo
 do Instituto Brasileiro de Geografia e Estatística (IBGE) no estado da instituição.
+
+image::./explicacao_cotas_iii.png[align="center"]
