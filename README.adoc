@@ -131,10 +131,11 @@ tem duração entre 2 a 3 anos.
 
 == Cotas
 
-A Lei de Cotas é um instrumento criado pelo Governo Federal para ampliar o acesso de estudantes de escolas públicas, de pessoas
-de família de baixa renda, negros, pardos, indígenas e pessoas com deficiência ao Ensino Superior. A Lei Nº 12771/12 que pode ser
-consultada http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12711.htm[aqui] determina como dever de todas as instituições
-federais de ensino devem reservar no mínimo metade (50%) das vagas para alunos que venham da formação de escolas públicas.
+Se você pretende se inscrever no vestibular ou processo de seleção de um instituto de ensino superior federal é importante que 
+saiba como funciona a Lei de Cotas. A Lei de Cotas é um instrumento criado pelo Governo Federal para ampliar o acesso de estudantes de 
+escolas públicas, de pessoas de família de baixa renda, negros, pardos, indígenas e pessoas com deficiência ao Ensino Superior. 
+A Lei Nº 12771/12 que pode ser consultada http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12711.htm[aqui] determina como dever 
+de todas as instituições federais de ensino devem reservar no mínimo metade (50%) das vagas para alunos que venham da formação de escolas públicas.
 
 > Para melhor entender como as cotas funcionam vamos quebrar a explicação em partes e usar exemplos e ilustrações.
 
@@ -150,3 +151,14 @@ as vagas para estudantes autodeclarados como pretos, pardos e indigenas e então
 do Instituto Brasileiro de Geografia e Estatística (IBGE) no estado da instituição.
 
 image::./explicacao_cotas_iii.png[Parte III,600,align="center"]
+
+=== Dúvidas Frequentes sobre Cotas
+
+==== A reserva de vagas vale para qualquer instituição de ensino superior?
+Não. A Lei de Cotas se refere apenas às universidades federais e aos institutos federais de educação, ciência e tecnologia. Mas não há nenhum impedimento para que outras instituições públicas – estaduais ou municipais – e mesmo as particulares também adotem os critérios da legislação. 
+
+==== Se eu me inscrever em uma vaga destinada a escola pública deixo de concorrer aos outros 50% em ampla concorrência?
+Não. Todos os estudantes concorrem ao total das vagas ofertado. A diferença é que, pelo menos, metade das vagas terão que ser preenchidas por ex-alunos da rede pública. Quando essa cota for preenchida, o  restante (50%) das vagas será distribuída por todos os candidatos – independente de onde estudaram – a partir das notas de cada um.
+
+==== A aplicação das cotas será para sempre?
+Não. A lei prevê que no prazo de dez anos haja uma revisão do programa, a partir da avaliação do impacto das cotas no acesso de estudantes pretos, pardos, indígenas e alunos de escola pública. A partir desse levantamento, a política pode ser revista, continuada ou até suspensa.
