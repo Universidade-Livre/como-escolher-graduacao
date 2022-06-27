@@ -158,8 +158,5 @@ image::./explicacao_cotas_iii.png[Parte III,600,align="center"]
 ==== A reserva de vagas vale para qualquer instituição de ensino superior?
 Não. A Lei de Cotas se refere apenas às universidades federais e aos institutos federais de educação, ciência e tecnologia. Mas não há nenhum impedimento para que outras instituições públicas – estaduais ou municipais – e mesmo as particulares também adotem os critérios da legislação. 
 
-==== Se eu me inscrever em uma vaga destinada a escola pública deixo de concorrer aos outros 50% em ampla concorrência?
-Não. Todos os estudantes concorrem ao total das vagas ofertado. A diferença é que, pelo menos, metade das vagas terão que ser preenchidas por ex-alunos da rede pública. Quando essa cota for preenchida, o  restante (50%) das vagas será distribuída por todos os candidatos – independente de onde estudaram – a partir das notas de cada um.
-
 ==== A aplicação das cotas será para sempre?
 Não. A lei prevê que no prazo de dez anos haja uma revisão do programa, a partir da avaliação do impacto das cotas no acesso de estudantes pretos, pardos, indígenas e alunos de escola pública. A partir desse levantamento, a política pode ser revista, continuada ou até suspensa.
