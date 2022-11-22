@@ -131,7 +131,11 @@ em diferentes nichos da área de Tecnologia da Informação, entre eles os curso
 Desenvolvimento de Sistemas, Técnologo em Jogos, Técnologo em Mídias Digitais e muitas outras opções. Os cursos de tecnologia
 tem duração entre 2 a 3 anos.
 
-== Cotas
+== Engenharia e o CREA
+
+**TODO**
+
+== Como funcionam as cotas sociais?
 
 Se você pretende se inscrever no vestibular ou processo de seleção de um instituto de ensino superior federal ou aplicar para programas como 
 Prouni ou concorrer a financiamentos pelo FIES é importante que  saiba como funciona a Lei de Cotas. A Lei de Cotas é um instrumento criado 
