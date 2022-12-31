@@ -133,6 +133,10 @@ em diferentes nichos da área de Tecnologia da Informação, entre eles os curso
 Desenvolvimento de Sistemas, Técnologo em Jogos, Técnologo em Mídias Digitais e muitas outras opções. Os cursos de tecnologia
 tem duração entre 2 a 3 anos.
 
+== Posso fazer Pós em Engenharia tendo Tecnólogo ou Licenciatura?
+
+TODO
+
 == Engenharia e o CREA
 
 **TODO**
