@@ -141,6 +141,8 @@ TODO
 
 O CREA (Conselho Federal de Engenharia e Agronomia) é um conselho de fiscalização profissional responsável pela regulamentação das atividades de Engenharia no Brasil. Além de Engenharias, o CREA também regula outros cursos relacionados com TI como Técnologo em Redes de Computadores. Para que o profissional possa exercer qualquer atividade profissional com o título de "Engenheiro" ou qualquer outro título que faça parte das profissões reguladas pelo CREA como  "Engenheiro da Computação" ou "Engenheira de Software" precisa ser credenciado junto ao Conselho.
 
+Ser registrado no CREA traz algumas proteções conquistadas pelo Conselho como Piso Salarial de oito sálarios mínimos para oito horas de trabalho, 
+
 == Como funcionam as cotas sociais?
 
 Se você pretende se inscrever no vestibular ou processo de seleção de um instituto de ensino superior federal ou aplicar para programas como 
