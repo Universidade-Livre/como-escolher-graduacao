@@ -43,22 +43,34 @@ Agora vamos a resposta complexa...
 **TODO**
 
 == Como avaliar uma faculdade?
+Antes de escolher uma instituição de ensino superior no Brasil, é importante avaliar diversos aspectos para garantir que ela ofereça o melhor ensino e recursos para atender às suas necessidades e objetivos. Aqui estão algumas coisas a considerar ao avaliar uma instituição de ensino.
 
-**TODO**
+1. Reputação e credibilidade: É importante verificar a reputação da instituição de ensino e se ela é credenciada pelo Ministério da Educação (MEC) e outras entidades relevantes. Além disso, é importante considerar a opinião de antigos alunos, professores e profissionais da área.
+2. Programas de estudo: É importante avaliar a qualidade dos programas de estudo oferecidos pela instituição, incluindo se eles atendem às suas expectativas e se são reconhecidos pelo mercado de trabalho. Além disso, é importante verificar se a instituição tem parcerias com empresas e organizações para proporcionar oportunidades de estágio e emprego aos seus alunos.
+3. Corpo docente: É importante avaliar a qualidade do corpo docente da instituição, incluindo sua formação, experiência e habilidades. Além disso, é importante verificar se a instituição oferece oportunidades para aprimoramento e atualização dos professores.
+4. Infraestrutura: É importante avaliar a qualidade da infraestrutura da instituição, incluindo as instalações físicas, tecnológicas e de recursos. Além disso, é importante verificar se a instituição oferece biblioteca, laboratórios e outros recursos para os estudantes.
+5. Suporte ao estudante: É importante avaliar o tipo de suporte oferecido pela instituição aos seus estudantes, incluindo orientação acadêmica, psicológica e financeira. Além disso, é importante verificar se a instituição oferece atividades extracurriculares, eventos e oportunidades de networking para os seus estudantes.
+
+Além disso, existem algumas métricas relevantes que você pode avaliar ao escolher uma instituição de ensino, incluindo:
+- Taxa de conclusão: É a porcentagem de estudantes que concluem o programa de estudo dentro do prazo esperado. Esta métrica indica a eficiência e a qualidade do programa de ensino.
+- Taxa de empregabilidade: É a porcentagem de ex-alunos da instituição que encontraram emprego dentro de um período específico após a graduação. Esta métrica indica a relevância do programa de ensino no mercado de trabalho.
+- Salários de ex-alunos: É importante avaliar os salários médios dos ex-alunos da instituição e compará-los com outras instituições similares. Esta métrica indica o valor do programa de ensino no mercado de trabalho.
+- Relação professor-aluno: É a razão entre o número de professores e o número de estudantes em uma instituição. Esta métrica indica a disponibilidade e acessibilidade dos professores para os estudantes.
+- Recursos tecnológicos e de infraestrutura: É importante avaliar a qualidade e a disponibilidade de recursos tecnológicos e de infraestrutura, incluindo biblioteca, laboratórios e outros equipamentos. Esta métrica indica o nível de apoio da instituição aos estudantes.
 
 == Presencial vs EAD
 
-A escolha entre ensino presencial e ensino à distância é uma decisão importante a ser tomada por aqueles que buscam se formar em Tecnologia da Informação. Cada modalidade possui suas próprias vantagens e desvantagens, e é importante considerar cuidadosamente as suas necessidades pessoais antes de escolher a forma de ensino.
+A escolha entre ensino a distância ou ensino presencial para uma graduação em TI pode ser uma decisão difícil, já que ambas as modalidades têm suas vantagens e desvantagens. É importante considerar vários fatores antes de tomar a decisão, incluindo suas necessidades pessoais, profissionais e financeiras.
 
-O ensino presencial é uma opção tradicional e oferece uma série de vantagens, incluindo interação presencial com professores e colegas, acesso a recursos e equipamentos tecnológicos, além de uma experiência mais imersiva no ambiente acadêmico. Além disso, o ensino presencial permite uma maior participação ativa na vida universitária, incluindo a participação em grupos de estudo e projetos de pesquisa.
+Ensino a distância é uma opção conveniente para aqueles que precisam equilibrar sua graduação com outras responsabilidades, como trabalho ou família. Com o ensino a distância, é possível estudar em qualquer lugar e a qualquer hora, desde que haja acesso à internet. Além disso, o ensino a distância oferece uma ampla variedade de opções de cursos e programas, muitos dos quais são oferecidos por universidades renomadas.
 
-No entanto, o ensino presencial também apresenta desvantagens, incluindo a necessidade de se deslocar até o campus, o que pode ser difícil para alguns estudantes, especialmente aqueles que moram longe ou têm outras responsabilidades. Além disso, o horário rígido de aulas e o ritmo acelerado do curso podem ser desafiadores para alguns estudantes, especialmente aqueles que precisam equilibrar o estudo com outras responsabilidades, como trabalho ou família.
+Por outro lado, o ensino presencial oferece a oportunidade de interação face-a-face com professores e colegas, o que pode ser importante para aqueles que precisam de mais interação social e motivação para concluir seus estudos. O ensino presencial também permite que os alunos participem de atividades práticas e experimentais, como laboratórios, que são difíceis de simular em um ambiente virtual.
 
-Por outro lado, o ensino à distância oferece uma série de vantagens, incluindo a flexibilidade de horários, que permite que os estudantes ajustem seu horário de estudo de acordo com suas necessidades pessoais. Além disso, o ensino à distância é uma opção mais acessível, já que não há necessidade de se deslocar até o campus, e pode ser mais econômico, já que não há necessidade de pagamento de mensalidades e outras taxas relacionadas ao ensino presencial.
+Outro fator a considerar é o apoio financeiro. Muitas universidades oferecem bolsas de estudo e outros tipos de ajuda financeira para estudantes de ensino presencial, enquanto os programas de ensino a distância tendem a ser mais acessíveis financeiramente. No entanto, é importante lembrar que os custos totais do ensino a distância podem incluir taxas de matrícula, livros, material didático, etc., e que esses custos podem adicionar rapidamente.
 
-No entanto, o ensino à distância também apresenta desvantagens, incluindo a falta de interação presencial com professores e colegas, o que pode ser um obstáculo para alguns estudantes. Além disso, o ensino à distância pode ser mais solitário, já que os estudantes precisam trabalhar de forma independente e sem a orientação e apoio imediato de professores e colegas.
+Em termos de carreira, ambas as opções geralmente oferecem aos graduados as mesmas oportunidades de emprego. No entanto, é importante verificar se a universidade ou o programa escolhido tem credibilidade e é reconhecido pelas empresas da área. Além disso, é importante lembrar que, em muitos casos, o ensino presencial oferece aos alunos a oportunidade de fazer networking e estabelecer conexões importantes com professores e colegas, o que pode ser valioso na procura de emprego.
 
-Ao escolher entre ensino presencial e ensino à distância, é importante considerar cuidadosamente as suas necessidades.
+Em resumo, a escolha entre ensino a distância e ensino presencial depende de suas necessidades pessoais e profissionais. 
 
 == Reconhecida x Autorizada pelo MEC
 
