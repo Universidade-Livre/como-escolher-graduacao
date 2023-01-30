@@ -48,7 +48,17 @@ Agora vamos a resposta complexa...
 
 == Presencial vs EAD
 
-**TODO**
+A escolha entre ensino presencial e ensino à distância é uma decisão importante a ser tomada por aqueles que buscam se formar em Tecnologia da Informação. Cada modalidade possui suas próprias vantagens e desvantagens, e é importante considerar cuidadosamente as suas necessidades pessoais antes de escolher a forma de ensino.
+
+O ensino presencial é uma opção tradicional e oferece uma série de vantagens, incluindo interação presencial com professores e colegas, acesso a recursos e equipamentos tecnológicos, além de uma experiência mais imersiva no ambiente acadêmico. Além disso, o ensino presencial permite uma maior participação ativa na vida universitária, incluindo a participação em grupos de estudo e projetos de pesquisa.
+
+No entanto, o ensino presencial também apresenta desvantagens, incluindo a necessidade de se deslocar até o campus, o que pode ser difícil para alguns estudantes, especialmente aqueles que moram longe ou têm outras responsabilidades. Além disso, o horário rígido de aulas e o ritmo acelerado do curso podem ser desafiadores para alguns estudantes, especialmente aqueles que precisam equilibrar o estudo com outras responsabilidades, como trabalho ou família.
+
+Por outro lado, o ensino à distância oferece uma série de vantagens, incluindo a flexibilidade de horários, que permite que os estudantes ajustem seu horário de estudo de acordo com suas necessidades pessoais. Além disso, o ensino à distância é uma opção mais acessível, já que não há necessidade de se deslocar até o campus, e pode ser mais econômico, já que não há necessidade de pagamento de mensalidades e outras taxas relacionadas ao ensino presencial.
+
+No entanto, o ensino à distância também apresenta desvantagens, incluindo a falta de interação presencial com professores e colegas, o que pode ser um obstáculo para alguns estudantes. Além disso, o ensino à distância pode ser mais solitário, já que os estudantes precisam trabalhar de forma independente e sem a orientação e apoio imediato de professores e colegas.
+
+Ao escolher entre ensino presencial e ensino à distância, é importante considerar cuidadosamente as suas necessidades.
 
 == Reconhecida x Autorizada pelo MEC
 
@@ -139,7 +149,9 @@ TODO
 
 == Engenharia e o CREA
 
-O CREA (Conselho Federal de Engenharia e Agronomia) é um conselho de fiscalização profissional responsável pela regulamentação das atividades de Engenharia no Brasil. Além de Engenharias, o CREA também regula outros cursos relacionados com TI como Técnologo em Redes de Computadores. Para que o profissional possa exercer qualquer atividade profissional com o título de "Engenheiro" ou qualquer outro título que faça parte das profissões reguladas pelo CREA como  "Engenheiro da Computação" ou "Engenheira de Software" precisa ser credenciado junto ao Conselho.
+O Conselho Regional de Engenharia e Agronomia (CREA) regulamenta a atuação de profissionais de Engenharia, Agronomia, Geologia, Geografia e Meteorologia no Brasil. Além de Engenharias, o CREA também regula outros cursos relacionados com TI como Técnologo em Redes de Computadores. Para que o profissional possa exercer qualquer atividade profissional com o título de "Engenheiro" ou qualquer outro título que faça parte das profissões reguladas pelo CREA como  "Engenheiro da Computação" ou "Engenheira de Software" precisa ser credenciado junto ao Conselho. A lista de universidades credenciadas pelo CREA pode ser encontrada no site oficial da instituição. 
+
+Além de garantir a validade da atuação profissional, o registro no CREA traz diversas outras vantagens aos profissionais registrados. O CREA fornece suporte jurídico aos profissionais, incluindo representação em processos ético-profissionais, defesa de direitos e prerrogativas, além de assessoramento técnico e participação em projetos e ações que visam o desenvolvimento da Engenharia no Brasil.
 
 == Como funcionam as cotas sociais?
 
