@@ -52,11 +52,12 @@ Antes de escolher uma instituição de ensino superior no Brasil, é importante 
 5. Suporte ao estudante: É importante avaliar o tipo de suporte oferecido pela instituição aos seus estudantes, incluindo orientação acadêmica, psicológica e financeira. Além disso, é importante verificar se a instituição oferece atividades extracurriculares, eventos e oportunidades de networking para os seus estudantes.
 
 Além disso, existem algumas métricas relevantes que você pode avaliar ao escolher uma instituição de ensino, incluindo:
-* **Taxa de conclusão**: É a porcentagem de estudantes que concluem o programa de estudo dentro do prazo esperado. Esta métrica indica a eficiência e a qualidade do programa de ensino.
-* **Taxa de empregabilidade**: É a porcentagem de ex-alunos da instituição que encontraram emprego dentro de um período específico após a graduação. Esta métrica indica a relevância do programa de ensino no mercado de trabalho.
-* **Salários de ex-alunos**: É importante avaliar os salários médios dos ex-alunos da instituição e compará-los com outras instituições similares. Esta métrica indica o valor do programa de ensino no mercado de trabalho.
-* **Relação professor-aluno**: É a razão entre o número de professores e o número de estudantes em uma instituição. Esta métrica indica a disponibilidade e acessibilidade dos professores para os estudantes.
-* **Recursos tecnológicos e de infraestrutura**: É importante avaliar a qualidade e a disponibilidade de recursos tecnológicos e de infraestrutura, incluindo biblioteca, laboratórios e outros equipamentos. Esta métrica indica o nível de apoio da instituição aos estudantes.
+
+- **Taxa de conclusão**: É a porcentagem de estudantes que concluem o programa de estudo dentro do prazo esperado. Esta métrica indica a eficiência e a qualidade do programa de ensino.
+- **Taxa de empregabilidade**: É a porcentagem de ex-alunos da instituição que encontraram emprego dentro de um período específico após a graduação. Esta métrica indica a relevância do programa de ensino no mercado de trabalho.
+- **Salários de ex-alunos**: É importante avaliar os salários médios dos ex-alunos da instituição e compará-los com outras instituições similares. Esta métrica indica o valor do programa de ensino no mercado de trabalho.
+- **Relação professor-aluno**: É a razão entre o número de professores e o número de estudantes em uma instituição. Esta métrica indica a disponibilidade e acessibilidade dos professores para os estudantes.
+- **Recursos tecnológicos e de infraestrutura**: É importante avaliar a qualidade e a disponibilidade de recursos tecnológicos e de infraestrutura, incluindo biblioteca, laboratórios e outros equipamentos. Esta métrica indica o nível de apoio da instituição aos estudantes.
 
 == Presencial vs EAD
 
