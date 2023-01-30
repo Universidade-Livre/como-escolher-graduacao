@@ -45,11 +45,11 @@ Agora vamos a resposta complexa...
 == Como avaliar uma faculdade?
 Antes de escolher uma instituição de ensino superior no Brasil, é importante avaliar diversos aspectos para garantir que ela ofereça o melhor ensino e recursos para atender às suas necessidades e objetivos. Aqui estão algumas coisas a considerar ao avaliar uma instituição de ensino.
 
-1. Reputação e credibilidade: É importante verificar a reputação da instituição de ensino e se ela é credenciada pelo Ministério da Educação (MEC) e outras entidades relevantes. Além disso, é importante considerar a opinião de antigos alunos, professores e profissionais da área.
-2. Programas de estudo: É importante avaliar a qualidade dos programas de estudo oferecidos pela instituição, incluindo se eles atendem às suas expectativas e se são reconhecidos pelo mercado de trabalho. Além disso, é importante verificar se a instituição tem parcerias com empresas e organizações para proporcionar oportunidades de estágio e emprego aos seus alunos.
-3. Corpo docente: É importante avaliar a qualidade do corpo docente da instituição, incluindo sua formação, experiência e habilidades. Além disso, é importante verificar se a instituição oferece oportunidades para aprimoramento e atualização dos professores.
-4. Infraestrutura: É importante avaliar a qualidade da infraestrutura da instituição, incluindo as instalações físicas, tecnológicas e de recursos. Além disso, é importante verificar se a instituição oferece biblioteca, laboratórios e outros recursos para os estudantes.
-5. Suporte ao estudante: É importante avaliar o tipo de suporte oferecido pela instituição aos seus estudantes, incluindo orientação acadêmica, psicológica e financeira. Além disso, é importante verificar se a instituição oferece atividades extracurriculares, eventos e oportunidades de networking para os seus estudantes.
+1. **Reputação e credibilidade**: É importante verificar a reputação da instituição de ensino e se ela é credenciada pelo Ministério da Educação (MEC) e outras entidades relevantes. Além disso, é importante considerar a opinião de antigos alunos, professores e profissionais da área.
+2. **Programas de estudo**: É importante avaliar a qualidade dos programas de estudo oferecidos pela instituição, incluindo se eles atendem às suas expectativas e se são reconhecidos pelo mercado de trabalho. Além disso, é importante verificar se a instituição tem parcerias com empresas e organizações para proporcionar oportunidades de estágio e emprego aos seus alunos.
+3. **Corpo docente**: É importante avaliar a qualidade do corpo docente da instituição, incluindo sua formação, experiência e habilidades. Além disso, é importante verificar se a instituição oferece oportunidades para aprimoramento e atualização dos professores.
+4. **Infraestrutura**: É importante avaliar a qualidade da infraestrutura da instituição, incluindo as instalações físicas, tecnológicas e de recursos. Além disso, é importante verificar se a instituição oferece biblioteca, laboratórios e outros recursos para os estudantes.
+5. **Suporte ao estudante**: É importante avaliar o tipo de suporte oferecido pela instituição aos seus estudantes, incluindo orientação acadêmica, psicológica e financeira. Além disso, é importante verificar se a instituição oferece atividades extracurriculares, eventos e oportunidades de networking para os seus estudantes.
 
 Além disso, existem algumas métricas relevantes que você pode avaliar ao escolher uma instituição de ensino, incluindo:
 
@@ -160,7 +160,7 @@ tem duração entre 2 a 3 anos.
 
 == Posso fazer Pós em Engenharia tendo Tecnólogo ou Licenciatura?
 
-TODO
+Sim, é possível fazer um pós-graduação em Engenharia tendo uma formação em Tecnologia ou Licenciatura. No entanto, algumas instituições podem ter exigências específicas em relação ao currículo ou ao grau de formação do candidato. É importante verificar as exigências de cada programa de pós-graduação e, se necessário, complementar a formação anterior antes de se candidatar a uma pós-graduação em Engenharia.
 
 == Engenharia e o CREA
 
