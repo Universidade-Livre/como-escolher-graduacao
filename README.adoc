@@ -59,6 +59,8 @@ Além disso, existem algumas métricas relevantes que você pode avaliar ao esco
 - **Relação professor-aluno**: É a razão entre o número de professores e o número de estudantes em uma instituição. Esta métrica indica a disponibilidade e acessibilidade dos professores para os estudantes.
 - **Recursos tecnológicos e de infraestrutura**: É importante avaliar a qualidade e a disponibilidade de recursos tecnológicos e de infraestrutura, incluindo biblioteca, laboratórios e outros equipamentos. Esta métrica indica o nível de apoio da instituição aos estudantes.
 
+Em conclusão, é importante levar em consideração vários fatores ao avaliar uma instituição de ensino superior no Brasil antes de tomar uma decisão. Esses são apenas alguns dos aspectos a serem considerados ao avaliar uma instituição. Cabe a cada indivíduo pesquisar e avaliar cuidadosamente as opções disponíveis para escolher a instituição que melhor atenda às suas necessidades e objetivos. É importante lembrar que a escolha de uma instituição de ensino é uma decisão importante e requer reflexão cuidadosa e pesquisa aprofundada.
+
 == Presencial vs EAD
 
 A escolha entre ensino a distância ou ensino presencial para uma graduação em TI pode ser uma decisão difícil, já que ambas as modalidades têm suas vantagens e desvantagens. É importante considerar vários fatores antes de tomar a decisão, incluindo suas necessidades pessoais, profissionais e financeiras.
