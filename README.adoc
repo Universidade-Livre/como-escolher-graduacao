@@ -4,10 +4,7 @@
 :language: asciidoc
 :docref: link:/docs
 
-Esse é um panfleto que busca te auxiliar a escolher um curso para entrar no mercado de desenvolvimento de software. 
-Nós, brasileiros, aprendemos que podemos estudar faz poucos anos, muitos dos nossos somos os primeiros das nossas 
-famílias a sentar em uma cadeira de universidade. Isso é extremamente possitivo, mas a falta de cultura de estudo 
-podem trazer algumas armadilhas que queremos desarmar com esse panfleto.
+Este é um F.A.Q. que tem como objetivo ajudá-lo a escolher um curso na área de desenvolvimento de software. É importante destacar que muitas pessoas, estão buscando formação acadêmica e profissional para alcançar seus objetivos pessoais e profissionais. Este é um caminho positivo e que pode trazer muitas oportunidades e realizações. O F.A.Q. busca fornecer informações valiosas para ajudá-lo a tomar uma decisão informada sobre sua formação na área de software.
 
 Todo colaboração é bem vinda, por isso dê sugestões, revise o texto, adicione questões. Esse é um trabalho colaborativo.
 
