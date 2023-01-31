@@ -51,17 +51,18 @@ Em conclusão, é importante levar em consideração vários fatores ao avaliar 
 
 == Presencial vs EAD
 
-A escolha entre ensino a distância ou ensino presencial para uma graduação em TI pode ser uma decisão difícil, já que ambas as modalidades têm suas vantagens e desvantagens. É importante considerar vários fatores antes de tomar a decisão, incluindo suas necessidades pessoais, profissionais e financeiras.
+Escolher entre ensino a distância ou presencial para uma graduação em TI é uma decisão importante. Cada modalidade tem suas vantagens e desvantagens, e é importante avaliar diversos fatores antes de decidir. Além de considerar suas necessidades pessoais e profissionais, também é importante levar em conta aspectos financeiros e de carreira.
 
-Ensino a distância é uma opção conveniente para aqueles que precisam equilibrar sua graduação com outras responsabilidades, como trabalho ou família. Com o ensino a distância, é possível estudar em qualquer lugar e a qualquer hora, desde que haja acesso à internet. Além disso, o ensino a distância oferece uma ampla variedade de opções de cursos e programas, muitos dos quais são oferecidos por universidades renomadas.
+Ensino a distância e ensino presencial têm suas vantagens e desvantagens. Para tomar uma decisão, considere:
 
-Por outro lado, o ensino presencial oferece a oportunidade de interação face-a-face com professores e colegas, o que pode ser importante para aqueles que precisam de mais interação social e motivação para concluir seus estudos. O ensino presencial também permite que os alunos participem de atividades práticas e experimentais, como laboratórios, que são difíceis de simular em um ambiente virtual.
+1. **Flexibilidade**: Ensino a distância permite estudar a qualquer hora e lugar, enquanto o presencial oferece interação face-a-face. Qual é mais importante para você?
+2. **Finanças**: Ensino presencial pode oferecer mais apoio financeiro, mas ensino a distância pode ser mais acessível. Qual é sua situação financeira?
+3. **Interação social**: O ensino presencial oferece mais interação social, enquanto o ensino a distância permite equilibrar estudos com outras responsabilidades. Qual é sua prioridade?
+4. **Oportunidades de carreira**: Ambos os tipos de ensino oferecem oportunidades de emprego, mas o presencial pode oferecer networking. Qual é mais importante para sua carreira?
 
-Outro fator a considerar é o apoio financeiro. Muitas universidades oferecem bolsas de estudo e outros tipos de ajuda financeira para estudantes de ensino presencial, enquanto os programas de ensino a distância tendem a ser mais acessíveis financeiramente. No entanto, é importante lembrar que os custos totais do ensino a distância podem incluir taxas de matrícula, livros, material didático, etc., e que esses custos podem adicionar rapidamente.
+De acordo com o Ministério da Educação (MEC), a modalidade de ensino a distância tem crescido significativamente nos últimos anos no Brasil. Em 2020, cerca de 25% das matrículas universitárias eram em cursos a distância. Além disso, a pesquisa "Perfil dos Estudantes de Educação a Distância no Brasil" realizada pelo MEC apontou que, em média, os estudantes de ensino a distância possuem mais de 30 anos, trabalham e têm mais responsabilidades familiares do que os estudantes presenciais. Esses dados sugerem que a conveniência de estudar a qualquer hora e lugar é um fator importante para a escolha do ensino a distância. No entanto, é importante lembrar que a interação presencial com professores e colegas, bem como a possibilidade de participar de atividades práticas, ainda são vantagens do ensino presencial.
 
-Em termos de carreira, ambas as opções geralmente oferecem aos graduados as mesmas oportunidades de emprego. No entanto, é importante verificar se a universidade ou o programa escolhido tem credibilidade e é reconhecido pelas empresas da área. Além disso, é importante lembrar que, em muitos casos, o ensino presencial oferece aos alunos a oportunidade de fazer networking e estabelecer conexões importantes com professores e colegas, o que pode ser valioso na procura de emprego.
-
-Em resumo, a escolha entre ensino a distância e ensino presencial depende de suas necessidades pessoais e profissionais. 
+A escolha entre ensino à distância ou presencial depende de suas necessidades pessoais e profissionais. É importante avaliar todos os fatores antes de decidir.
 
 == Reconhecida x Autorizada pelo MEC
 
