@@ -188,3 +188,11 @@ Não. A Lei de Cotas se refere apenas às universidades federais e aos instituto
 
 ==== A aplicação das cotas será para sempre?
 Não. A lei prevê que no prazo de dez anos haja uma revisão do programa, a partir da avaliação do impacto das cotas no acesso de estudantes pretos, pardos, indígenas e alunos de escola pública. A partir desse levantamento, a política pode ser revista, continuada ou até suspensa.
+
+== Dúvidas frequentes sobre cursos de tecnologia?
+
+=== Universidade deve ensinar frameworks?
+
+Não! Frameworks são um tópico comum para cursos livros, mas os conceitos ensinados pela universidade podem ser aplicados em frameworks. As matérias comuns em um curso de Computação envolvem Algoritmos, Estrutura de Dados, Estrutura de Arquivos, Programação Orientada a Objetos, Sistemas Distribuídos, Sistemas Operacionais, etc. Esses temas são díficies de serem trabalhados se o foco é um framework, mas eles são essenciais no dia a dia de um desenvolvedor. 
+
+Se você for estudar Estrutura de Dados, vai ficar 1 semestre só olhando para listas, filas, pilhas, grafos e outras estruturas. Elas são mais importantes que os frameworks. Frameworks são passageiros, e essas estruturas são perenes.
