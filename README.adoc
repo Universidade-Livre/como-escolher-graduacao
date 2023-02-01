@@ -30,7 +30,7 @@ Além disso, as universidades são importantes para o desenvolvimento tecnológi
 
 Por sua vez, o mercado também é importante para as universidades, pois oferece oportunidades para a aplicação dos conhecimentos adquiridos e fornece feedback valioso para ajustar seus programas de ensino e pesquisa. Dessa forma, é equivocado afirmar que as universidades são desatualizadas, uma vez que elas se esforçam constantemente para estar em sintonia com as demandas e inovações do mercado.
 
-== Universidades devem ensinar frameworks ou linguagens de programação especificas?
+== Universidades ensinam frameworks ou linguagens de programação especificas?
 
 A universidade deve priorizar o ensino de conceitos fundamentais e princípios gerais da programação, em vez de se concentrar em ferramentas específicas como frameworks ou linguagens. Isso permitirá que os alunos desenvolvam habilidades sólidas e adaptáveis, capazes de lidar com novas tecnologias e desafios no futuro. Ao invés de se concentrar em tecnologias pontuais, é importante que a universidade forneça aos alunos uma base sólida e bem fundamentada na programação, que possibilitará o desenvolvimento de soluções eficientes e inovadoras para problemas reais.
 
