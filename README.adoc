@@ -36,11 +36,11 @@ A universidade deve priorizar o ensino de conceitos fundamentais e princípios g
 
 A formação universitária em TI tem como objetivo fornecer aos alunos uma compreensão profunda e abrangente dos conceitos fundamentais da computação, bem como das aplicações práticas desses conceitos, preparando-os para atuar em vários setores da tecnologia da informação. Isso inclui (mas não somente) conhecimentos como:
 
-- Algoritmos: estudam as técnicas eficientes para resolver problemas, utilizando estruturas de dados, lógica de programação e outros conceitos da computação.
-- Estrutura de Dados: estuda como organizar, armazenar e manipular informações de maneira eficiente, incluindo árvores, grafos, listas, filas, pilhas e tabelas hash.
-- Estrutura de Arquivos: aborda como armazenar e acessar dados em arquivos permanentes, incluindo o uso de algoritmos de busca e ordenação, bem como estruturas de arquivo eficientes.
-- Programação Orientada a Objetos: enfatiza a programação baseada em objetos, que permite o desenvolvimento de aplicações mais organizadas, flexíveis e reutilizáveis.
-- Sistemas Distribuídos e Sistemas Operacionais: exploram as técnicas e ferramentas utilizadas para construir sistemas que lidam com processamento distribuído e gerenciamento de recursos de hardware e software.
+- **Algoritmos**: estudam as técnicas eficientes para resolver problemas, utilizando estruturas de dados, lógica de programação e outros conceitos da computação.
+- **Estrutura de Dados**: estuda como organizar, armazenar e manipular informações de maneira eficiente, incluindo árvores, grafos, listas, filas, pilhas e tabelas hash.
+- **Estrutura de Arquivos**: aborda como armazenar e acessar dados em arquivos permanentes, incluindo o uso de algoritmos de busca e ordenação, bem como estruturas de arquivo eficientes.
+- **Programação Orientada a Objetos**: enfatiza a programação baseada em objetos, que permite o desenvolvimento de aplicações mais organizadas, flexíveis e reutilizáveis.
+- **Sistemas Distribuídos e Sistemas Operacionais**: exploram as técnicas e ferramentas utilizadas para construir sistemas que lidam com processamento distribuído e gerenciamento de recursos de hardware e software.
 
 Ao invés de se restringir a aprender apenas sobre um determinado framework ou linguagem de programação, é crucial que os estudantes se dediquem a compreender as bases da programação, permitindo-lhes a capacidade de criar soluções inovadoras e eficientes para problemas reais. A formação sólida em conceitos fundamentais fornecerá a base necessária para a evolução contínua da carreira, tornando-os profissionais habilitados e altamente qualificados. Assim, é importante destacar que, apesar da importância dos conceitos fundamentais, o conhecimento de linguagens e frameworks também é valioso e pode ser adquirido pelo próprio estudante, aproveitando os conhecimentos gerais adquiridos na formação e complementando-os com fontes adicionais, como livros e cursos online.
 
