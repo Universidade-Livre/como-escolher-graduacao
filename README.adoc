@@ -30,6 +30,20 @@ Além disso, as universidades são importantes para o desenvolvimento tecnológi
 
 Por sua vez, o mercado também é importante para as universidades, pois oferece oportunidades para a aplicação dos conhecimentos adquiridos e fornece feedback valioso para ajustar seus programas de ensino e pesquisa. Dessa forma, é equivocado afirmar que as universidades são desatualizadas, uma vez que elas se esforçam constantemente para estar em sintonia com as demandas e inovações do mercado.
 
+== Universidades devem ensinar frameworks ou linguagens de programação especificas?
+
+A universidade deve priorizar o ensino de conceitos fundamentais e princípios gerais da programação, em vez de se concentrar em ferramentas específicas como frameworks ou linguagens. Isso permitirá que os alunos desenvolvam habilidades sólidas e adaptáveis, capazes de lidar com novas tecnologias e desafios no futuro. Ao invés de se concentrar em tecnologias pontuais, é importante que a universidade forneça aos alunos uma base sólida e bem fundamentada na programação, que possibilitará o desenvolvimento de soluções eficientes e inovadoras para problemas reais.
+
+A formação universitária em TI tem como objetivo fornecer aos alunos uma compreensão profunda e abrangente dos conceitos fundamentais da computação, bem como das aplicações práticas desses conceitos, preparando-os para atuar em vários setores da tecnologia da informação. Isso inclui (mas não somente) conhecimentos como:
+
+- Algoritmos: estudam as técnicas eficientes para resolver problemas, utilizando estruturas de dados, lógica de programação e outros conceitos da computação.
+- Estrutura de Dados: estuda como organizar, armazenar e manipular informações de maneira eficiente, incluindo árvores, grafos, listas, filas, pilhas e tabelas hash.
+- Estrutura de Arquivos: aborda como armazenar e acessar dados em arquivos permanentes, incluindo o uso de algoritmos de busca e ordenação, bem como estruturas de arquivo eficientes.
+- Programação Orientada a Objetos: enfatiza a programação baseada em objetos, que permite o desenvolvimento de aplicações mais organizadas, flexíveis e reutilizáveis.
+- Sistemas Distribuídos e Sistemas Operacionais: exploram as técnicas e ferramentas utilizadas para construir sistemas que lidam com processamento distribuído e gerenciamento de recursos de hardware e software.
+
+Ao invés de se restringir a aprender apenas sobre um determinado framework ou linguagem de programação, é crucial que os estudantes se dediquem a compreender as bases da programação, permitindo-lhes a capacidade de criar soluções inovadoras e eficientes para problemas reais. A formação sólida em conceitos fundamentais fornecerá a base necessária para a evolução contínua da carreira, tornando-os profissionais habilitados e altamente qualificados. Assim, é importante destacar que, apesar da importância dos conceitos fundamentais, o conhecimento de linguagens e frameworks também é valioso e pode ser adquirido pelo próprio estudante, aproveitando os conhecimentos gerais adquiridos na formação e complementando-os com fontes adicionais, como livros e cursos online.
+
 == Como avaliar uma faculdade?
 Antes de escolher uma instituição de ensino superior no Brasil, é importante avaliar diversos aspectos para garantir que ela ofereça o melhor ensino e recursos para atender às suas necessidades e objetivos. Aqui estão algumas coisas a considerar ao avaliar uma instituição de ensino.
 
@@ -188,11 +202,3 @@ Não. A Lei de Cotas se refere apenas às universidades federais e aos instituto
 
 ==== A aplicação das cotas será para sempre?
 Não. A lei prevê que no prazo de dez anos haja uma revisão do programa, a partir da avaliação do impacto das cotas no acesso de estudantes pretos, pardos, indígenas e alunos de escola pública. A partir desse levantamento, a política pode ser revista, continuada ou até suspensa.
-
-== Dúvidas frequentes sobre cursos de tecnologia?
-
-=== Universidade deve ensinar frameworks?
-
-Não! Frameworks são um tópico comum para cursos livros, mas os conceitos ensinados pela universidade podem ser aplicados em frameworks. As matérias comuns em um curso de Computação envolvem Algoritmos, Estrutura de Dados, Estrutura de Arquivos, Programação Orientada a Objetos, Sistemas Distribuídos, Sistemas Operacionais, etc. Esses temas são díficies de serem trabalhados se o foco é um framework, mas eles são essenciais no dia a dia de um desenvolvedor. 
-
-Se você for estudar Estrutura de Dados, vai ficar 1 semestre só olhando para listas, filas, pilhas, grafos e outras estruturas. Elas são mais importantes que os frameworks. Frameworks são passageiros, e essas estruturas são perenes.
